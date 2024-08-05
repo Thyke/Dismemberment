@@ -1,0 +1,9 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\Dismemberment\\Module.Dismemberment.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\Dismemberment\\Dismemberment.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\Dismemberment\\DismembermentComponent.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\Dismemberment\\LimbActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\Dismemberment\\LimbData.cpp.obj"
+	]
+}
